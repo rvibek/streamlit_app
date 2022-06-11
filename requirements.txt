@@ -3,6 +3,3 @@ numpy
 streamlit
 plotly
 altair
-matplotlib
-requests
-json
